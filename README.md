@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Gautam</h1>
 <h3 align="center">|| A Passionate Data Scientist From India. ||</h3>
 
-<img align="right" alt="coding" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODcxMGVjODQ1YTQxODEwNTQwMGM2MGQ0NjA2MWRkNzdkZWIwYmJjMyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODcxMGVjODQ1YTQxODEwNTQwMGM2MGQ0NjA2MWRkNzdkZWIwYmJjMyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravigaautam&label=Profile%20views&color=0e75b6&style=flat" alt="ravigaautam" /> </p>
