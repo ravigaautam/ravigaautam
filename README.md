@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ravi Gautam</h1>
-<h3 align="center">|| A Passionate Data Scientist From India. ||</h3>
+<h1 align="center">Hi 👋, I'm Ravi Raj</h1>
+<h3 align="center">|| A Aspiring Data Scientist From India. ||</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODcxMGVjODQ1YTQxODEwNTQwMGM2MGQ0NjA2MWRkNzdkZWIwYmJjMyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/ravigaautam" target="blank"><img src="https://img.shields.io/twitter/follow/ravigaautam?logo=twitter&style=for-the-badge" alt="ravigaautam" /></a> </p>
 
-- 🌱 I’m currently learning **#pythonprogramming(Pro level), #datascience, as well as parallel #machinelearning, #deeplearning, #artificalintelligence and many more.**
+- 🌱 I have hands on skills **Excel, Mathematics, Sql, Power Bi, Python, Machine Learning**
 
-- 🤝 I’m looking for help with **Sometimes about data science.**
+- 🤝 I’m looking for help with **Upgrade my self in a real tech. world.**
 
 - 💬 Ask me about **Related to Data Science field.**
 
