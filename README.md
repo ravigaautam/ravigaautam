@@ -25,8 +25,35 @@
 <a href="https://instagram.com/er_ravigaautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er_ravigaautam" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/sql/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="SQL Server"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40" alt="Power BI"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  </a>
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravigaautam&show_icons=true&locale=en&layout=compact" alt="ravigaautam" /></p>
 
